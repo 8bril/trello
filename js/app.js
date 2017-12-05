@@ -10,8 +10,9 @@ var messageArray = []; // Enviar todos los elementos almacenados a un array vac�
 
 // 3. Darle atributos a los elementos que creé 
 
+
 // 4. Agregar eventos si son necesarios 
-submitButton.onclick = submitClicked;
+submitButton.onclick = submitClicked; 
 
 // 5. Indicar donde se van a crear 
 // Creamos función dónde se va a añadir el contenido del array
