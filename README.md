@@ -68,3 +68,7 @@ Despues de replicar el formato de la web **Trello** vamos a meter diferentes fun
  > Nota: El sitio original tiene ciertos efectos y funcionalidades que
 están fuera del alcance de este reto. Enfócate en obtener la maquetación
 lo más parecido posible, usando lo aprendido en clase :guiño:
+
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nQdTj"><a href="//imgur.com/nQdTj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
